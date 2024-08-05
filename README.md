@@ -15,7 +15,7 @@
 
 O projeto Ignite Call é uma aplicação de agendamento inovadora que simplifica a gestão de compromissos. Uma das características principais da aplicação é a integração com o Google Calendar, garantindo que os usuários possam visualizar e gerenciar seus agendamentos em diferentes plataformas de forma unificada.
 
-O Ignite Call foi desenvolvido utilizando um Design System personalizado, que assegura uma interface consistente e intuitiva, aprimorando a experiência do usuário. O front-end da aplicação é construído com o framework Next.js, que oferece desempenho otimizado e capacidades avançadas de renderização. Para a interação com o banco de dados, utilizamos o ORM Prisma, que facilita a manipulação de dados com segurança, eficiência e inclui validações robustas.
+O Ignite Call foi desenvolvido utilizando um [Design System](https://github.com/GuiiDamasceno/design-system-ignite) personalizado, que assegura uma interface consistente e intuitiva, aprimorando a experiência do usuário. O front-end da aplicação é construído com o framework Next.js, que oferece desempenho otimizado e capacidades avançadas de renderização. Para a interação com o banco de dados, utilizamos o ORM Prisma, que facilita a manipulação de dados com segurança, eficiência e inclui validações robustas.
 
 A aplicação é especialmente voltada para a criação de eventos personalizados no calendário do usuário. Os usuários podem cadastrar sua disponibilidade em dias e horas específicos e compartilhar essa informação com outras pessoas, permitindo que elas reservem horários de acordo com a conveniência mútua. Isso torna o Ignite Call uma ferramenta poderosa para profissionais que necessitam de uma gestão eficaz e integrada de seus compromissos.
 
