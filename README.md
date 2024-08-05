@@ -44,11 +44,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ![Home](./.github/home.png)
 
-![Calendar](./.github/calendar.png)
-
 ![Conect](./.github/conectar.png)
 
 ![Schedule](./.github/schedule.png)
+
+![Calendar](./.github/calendar.png)
 
 <h2 id="usage">Executando o Front-end</h2>
 
