@@ -9,6 +9,8 @@
   <a href="#usage">Utilização</a>
 </p>
 
+![Schedule](./.github/ignite.png)
+
 <h2 id='project'>Projeto</h2>
 
 O projeto Ignite Call é uma aplicação de agendamento inovadora que simplifica a gestão de compromissos. Uma das características principais da aplicação é a integração com o Google Calendar, garantindo que os usuários possam visualizar e gerenciar seus agendamentos em diferentes plataformas de forma unificada.
